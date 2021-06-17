@@ -2,7 +2,6 @@ package com.example.side_app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.side_app_shadow.R
 
 class SideActivity : AppCompatActivity() {
 
